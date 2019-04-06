@@ -1,0 +1,1 @@
+from ekonomi.blueprints.page.views import page
