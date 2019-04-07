@@ -1,7 +1,7 @@
 FROM python:3.7-slim
 MAINTAINER Fredrik Cederlund <freced81@gmail.com>
 
-ENV INSTALL_PATH /snakeeyes
+ENV INSTALL_PATH /ekonomi
 RUN mkdir -p $INSTALL_PATH
 
 WORKDIR $INSTALL_PATH
